@@ -3,18 +3,9 @@ Using Google Gemini, you can know what is in your screen and have some help
 
 For now, this project is only in spanish, but you can a make a pull using your lenguage
 
-# You'll need to have these libraries
+# You'll need to have the requirements
 ```bash
-pip install mss
-```
-```bash
-pip install Pillow
-```
-```bash
-pip install pyttsx3
-```
-```bash
-pip install google-generativeai
+pip install -r requirements.txt
 ```
 
 # And then, you'll need to have an apikey
