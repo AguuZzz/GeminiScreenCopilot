@@ -1,0 +1,4 @@
+mss
+Pillow
+pyttsx3
+google-generativeai
